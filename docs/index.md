@@ -2,7 +2,7 @@
 
 Hello FB3 Students! Here you will find all the tutorials you will need to complete the three data analyses assignments. 
 
-### In BIOL 2710 Foundations of Biology III you will perform several data analysis (DA) exercises to develop skills in: 
+### In BIOL 2710 Foundations of Biology III you will perform several data analysis (DA) exercises to develop skills in:
 
 * Selecting the appropriate type of graph for a particulat data set (line graph, scatter plot or bar graph)
 * Using a spreadsheet program (Excel) to enter data and calculate summary statistics (mean, standard deviation, and standard error)
@@ -22,10 +22,10 @@ The DAs will contain data from a variety of investigations. To make sense of eac
   * After you have constructed the graph you can more easily describe any trends in the data
 * What do the results mean? 
   * Address this in your discussion paragraph
-
+  
 ## Tutorials
 
 1. [DA #1 t-test](http://rpubs.com/LLRig17/363318) 
 2. [DA #2 Analysis of Variance(ANOVA)](website url)
-3. [DA #3 Regression Analysis](wensite url)
+3. [DA #3 Regression Analysis](website url)
 
