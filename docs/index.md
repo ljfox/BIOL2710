@@ -25,7 +25,7 @@ The DAs will contain data from a variety of investigations. To make sense of eac
 
 ## Tutorials
 
-1. [DA #1 t-test](http://rpubs.com/LLRig17/363318)
+1. [DA #1 t-test](http://rpubs.com/LLRig17/363318) 
 2. [DA #2 Analysis of Variance(ANOVA)](website url)
 3. [DA #3 Regression Analysis](wensite url)
 
