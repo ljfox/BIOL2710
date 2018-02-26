@@ -16,6 +16,12 @@ The DAs will contain data from a variety of investigations. To make sense of eac
 * Why did they do it?
   * This will be in the introductory material to the specific DA
 * How did they do it?
+  * Also in each handout, and you should summarize this in the figure caption
+* What were the results? 
+  * Determine the proper graph type and construct the graph
+  * After you have constructed the graph you can more easily describe any trends in the data
+* What do the results mean? 
+  * Address this in your discussion paragraph
 
 ## Tutorials
 
